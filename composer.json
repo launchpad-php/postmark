@@ -1,0 +1,16 @@
+{
+    "name": "launchpad/postmark",
+    "description": "An object-oriented wrapper for the Postmark email api",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Launchpad\\Postmark\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0",
+        "wildbit/postmark-php": "^6.0"
+    }
+}

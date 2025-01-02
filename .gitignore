@@ -1,0 +1,12 @@
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# phpenv local config
+.php-version
+
+# Jetbrains editors (PHPStorm, etc)
+.idea/
+
+vendor/
