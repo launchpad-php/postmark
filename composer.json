@@ -1,6 +1,7 @@
 {
     "name": "launchpad/postmark",
     "description": "An object-oriented wrapper for the Postmark email api",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
