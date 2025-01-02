@@ -62,7 +62,7 @@ class Postmark
         $this->config['replyTo'] = $address;
     }
 
-    public function setData( $data = [] ): void
+    public function addData( $data = [] ): void
     {
         $this->config['templateData'] = $data;
     }
